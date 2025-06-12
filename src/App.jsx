@@ -7,7 +7,7 @@ function App() {
   return(
     <div className='container'>
 
-      <h1>Iniciar Sesión</h1>
+      <h1>Iniciar Sesion</h1>
       
       <div className='cont-input'>
         
@@ -21,7 +21,7 @@ function App() {
           <input type="text" className='input'/>
         </div>
         
-        <button>Iniciar Sesión</button>
+        <button>Iniciar Sesion</button>
       </div>
 
     </div>
